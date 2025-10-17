@@ -342,5 +342,4 @@ Make sure to respect the terms of service of the websites you scrape and comply 
 ---
 **Happy job hunting! 🎯**
 
-**Happy job hunting! 🎯**
 
