@@ -300,4 +300,43 @@ Cet outil est fourni à des fins éducatives. Assurez-vous de respecter les cond
 
 ---
 
+
+
+
+## Presentation Menu
+
+### 1. Menu Principal
+![Étape 1](./images/1.png)  
+
+---
+
+### 2. Menu Scraping
+![Étape 2](./images/2.png)  
+
+---
+
+### 3. Filtrage des Résultats
+![Étape 3](./images/3.png)  
+
+---
+
+### 3. Filtrage des Résultats 2
+![Étape 4](./images/4.png)  
+
+---
+
+### 5. Adaptation du Profil Candidat
+![Étape 5](./images/5.png)  
+
+---
+
+### 5. Adaptation du Profil Candidat 2
+![Étape 6](./images/6.png)  
+
+---
+
+### 5. Génération de lettres de motivation
+![Étape 7](./images/7.png)  
+
+---
 **Happy job hunting! 🎯**

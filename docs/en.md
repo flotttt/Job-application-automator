@@ -304,5 +304,43 @@ Make sure to respect the terms of service of the websites you scrape and comply 
 
 ---
 
+# Presentation Menu
+
+### 1. Main Menu
+![Step 1](./images/1.png)  
+
+---
+
+### 2. Scraping Menu
+![Step 2](./images/2.png)  
+
+---
+
+### 3. Results Filtering
+![Step 3](./images/3.png)  
+
+---
+
+### 4. Results Filtering (Part 2)
+![Step 4](./images/4.png)  
+
+---
+
+### 5. Candidate Profile Adjustment
+![Step 5](./images/5.png)  
+
+---
+
+### 6. Candidate Profile Adjustment (Part 2)
+![Step 6](./images/6.png)  
+
+---
+
+### 7. Cover Letter Generation
+![Step 7](./images/7.png)  
+
+---
+**Happy job hunting! 🎯**
+
 **Happy job hunting! 🎯**
 
